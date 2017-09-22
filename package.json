@@ -1,0 +1,22 @@
+{
+  "name": "resin-sense-hat-example",
+  "version": "1.0.0",
+  "description": "An example of the sense hat libraries used for introductory talk at resin hackathon 2017",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resin-io-playground/sense-hat-example.git"
+  },
+  "author": "Cameron Diver <cameron@resin.io>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/resin-io-playground/sense-hat-example/issues"
+  },
+  "homepage": "https://github.com/resin-io-playground/sense-hat-example#readme",
+  "dependencies": {
+    "node-sense-hat": "0.0.2"
+  }
+}
